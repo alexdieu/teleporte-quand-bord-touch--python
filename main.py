@@ -1,11 +1,9 @@
 import pygame
 
-#To do : ajouter un menu configurable
 hauteur = 800
 largeur = 800
 FPS = 60
 
-#couleurs du jeu (Complété):
 blanc = (255,255,255)
 bleu = (0,0,255)
 vert = (0,255,0)
